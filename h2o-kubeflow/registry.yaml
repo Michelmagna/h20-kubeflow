@@ -1,0 +1,12 @@
+apiVersion: '0.1'
+kind: ksonnet.io/registry
+libraries:
+  h2o3-scaling:
+    verion: master
+    path: h2o3-scaling
+  mojo-serving:
+    version: master
+    path: mojo-serving
+  h2oai:
+    version: master
+    path: h2oai
